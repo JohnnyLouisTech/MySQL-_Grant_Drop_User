@@ -1,1 +1,1 @@
-# MySQL-_Grant_Drop_User
+# MySQL_Grant_Drop_User
